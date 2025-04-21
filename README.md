@@ -7,7 +7,8 @@ Special thanks to **ChatGPT** for assisting with the WPF and interop implementat
 
 ---
 ## 📷 Preview 
-(https://github.com/user-attachments/assets/69822eef-8c40-4ef9-8c89-5777f2fcdaab)
+![image](https://github.com/user-attachments/assets/e450d4f2-f4b8-4baa-807b-b9b3e36cfebc)
+
 ---
 
 ## 🧩 Usage
