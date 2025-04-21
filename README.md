@@ -8,7 +8,6 @@ Special thanks to **ChatGPT** for assisting with the WPF and interop implementat
 ---
 ## 📷 Preview 
 ![image](https://github.com/user-attachments/assets/e450d4f2-f4b8-4baa-807b-b9b3e36cfebc)
-
 ---
 
 ## 🧩 Usage
@@ -17,7 +16,7 @@ using (WarningBar warningBar = new WarningBar("Your title"))
 {
     warningBar.Show();
 
-// Logic code
+    // Logic code
 
     warningBar.Dispose();
 }
